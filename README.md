@@ -140,3 +140,9 @@ The dataset used is `groceries - groceries.csv`, which contains 9,835 transactio
   - Optimize store layouts
   - Offer targeted promotions
   - Improve product recommendations
+
+## 👩‍💻 Author
+
+**Yassmine Yazidi**  
+Business Student & Data Enthusiast  
+Tunisia 🇹🇳
